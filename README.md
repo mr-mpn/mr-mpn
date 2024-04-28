@@ -1,6 +1,6 @@
 - 👋 Hello everyone, I am Mohammad
 - 👀 I’m interested in network methodologies and also coding
-- 🌱 I’m currently learning the use of Python in different aspects such as Networking, Machine Learning, AI and CyberSecurity
+- 🌱 I’m currently learning the use of Python in different aspects such as Networking, Machine Learning, AI and Web Applications
 - 💞️ I’m looking to collaborate on projects that include my fundamental understanding of network protocols in the telecommunication industry.
 
 <!---
