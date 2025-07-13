@@ -38,25 +38,6 @@ Cloud Engineer with hands-on experience building secure, scalable, and serverles
 
 ---
 
-### 📚 Projects Highlight
-
-- 🤖 **Restaurant Chatbot** – Conversational AI using FastAPI and Gemini LLM  
-- 🇮🇹 **Language Quiz App** – Italian quiz with OpenAI explanations on a serverless AWS stack  
-- 🍎 **Food Nutrition App** – Dynamic nutrition facts with AWS Lambda & DynamoDB  
-- 🌐 **Secure Static Website** – CloudFront + S3 + Route53 static site hosting  
-- 🛠️ **IaC Multi-tier Setup** – Modular Terraform for VPC, EC2, RDS, ALB
-
----
-
-### 📜 Certifications
-
-- ✅ [AWS Certified Cloud Practitioner (CLF-C02)](https://www.udemy.com/certificate/UC-36b4886e-e456-40e9-adbe-89824a9357de/)
-- ✅ [Supervised ML by Andrew Ng – Coursera](https://www.coursera.org/account/accomplishments/records/GQL7WPX0TVHZ)
-- ✅ [Advanced Neural Networks – Coursera](https://coursera.org/share/7cbfc5a1a37a185f828d192143899169)
-- ✅ [Linux Unhatched – Cisco NetAcad](https://www.netacad.com/courses/linux-unhatched?courseLang=en-US)
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
