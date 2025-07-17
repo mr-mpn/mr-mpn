@@ -49,4 +49,3 @@ Cloud Engineer with hands-on experience building secure, scalable, and serverles
 
 ---
 
-_“Building clean infrastructure, one line of code at a time.”_
